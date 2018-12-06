@@ -214,7 +214,7 @@ class EmptyModuleViolation(SimpleViolation):
     Forbids to have empty modules.
 
     Reasoning:
-        Why is it even there? Do not polute your project with empty files.
+        Why is it even there? Do not pollute your project with empty files.
 
     Solution:
         If you have an empty module there are two ways to handle that:
